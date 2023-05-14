@@ -4394,6 +4394,11 @@
   <item component="ComponentInfo{com.vkontakte.android/com.vkontakte.android.MainActivity}" drawable="vkontakte" name="VK" />
   <item component="ComponentInfo{com.vkontakte.android/com.vkontakte.android.SplashActivity}" drawable="vkontakte" name="VK" />
   <item component="ComponentInfo{com.vkontakte.android/com.vkontakte.android.Standart}" drawable="vkontakte" name="VK" />
+  <item component="ComponentInfo{com.vtosters.lite/com.vk.android.launcher.icons.IconAlias.DefaultIcon}" drawable="vkontakte" name="VK" />
+  <item component="ComponentInfo{com.vtosters.lite/com.vtosters.lite.activities.LaunchActivity}" drawable="vkontakte" name="VK" />
+  <item component="ComponentInfo{com.vtosters.lite/com.vtosters.lite.MainActivity}" drawable="vkontakte" name="VK" />
+  <item component="ComponentInfo{com.vtosters.lite/com.vtosters.lite.SplashActivity}" drawable="vkontakte" name="VK" />
+  <item component="ComponentInfo{com.vtosters.lite/com.vtosters.lite.Standart}" drawable="vkontakte" name="VK" />
   <item component="ComponentInfo{org.videolan.vlc/org.videolan.vlc.gui.MainActivity}" drawable="vlc" name="VLC" />
   <item component="ComponentInfo{org.videolan.vlc/org.videolan.vlc.gui.SendCrashActivity}" drawable="vlc" name="VLC" />
   <item component="ComponentInfo{org.videolan.vlc/org.videolan.vlc.gui.tv.MainTvActivity}" drawable="vlc" name="VLC" />
